@@ -20,7 +20,7 @@ building the lab's first full attack chain: poisoned RAG doc → tool call
 measuring where red-team tools disagree on the same target
 
 $ cat certs
-OSAI+ (OffSec AI-300)   in progress
+OSAI+ (OffSec AI-300)   preparation
 CEH v13 (EC-Council)
 ISTQB CTFL
 
