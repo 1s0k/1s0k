@@ -7,8 +7,9 @@ I test LLM applications, agents and MCP integrations for prompt
 injection, excessive agency and RAG poisoning. Results are attack
 success rates over repeated trials, mapped to OWASP Top 10 for LLM
 and MITRE ATLAS.
-Background: 8 years of test automation in regulated systems
-(medtech, robotics, telecom / IoT).
+Background: 7+ years in software testing, 5+ in test automation
+for regulated medical devices (lab robotics, DNA analysis);
+before that, telecom / IoT QA.
 
 $ ls projects/
 ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP   (private, soon)
