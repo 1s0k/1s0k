@@ -20,6 +20,7 @@ measuring where red-team tools disagree on the same target
 $ cat certs
 CEH v13 (EC-Council)
 OSAI+ (OffSec AI-300)   in progress
+ISTQB CTFL
 
 $ cat contact
 linkedin.com/in/leschek
