@@ -12,7 +12,7 @@ Background: 8 years of test automation in regulated systems
 
 $ ls projects/
 ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP   (private, soon)
-ai-sec-tests   red-team harness: promptfoo, garak, PyRIT          (private, soon)
+ai-sec-tests   red-team harness: promptfoo, garak, PyRIT
 
 $ cat now
 building the lab's first full attack chain: poisoned RAG doc → tool call
@@ -27,4 +27,4 @@ $ cat contact
 linkedin.com/in/leschek
 ```
 
-[LinkedIn](https://www.linkedin.com/in/leschek)
+[ai-sec-tests](https://github.com/1s0k/ai-sec-tests) · [LinkedIn](https://www.linkedin.com/in/leschek)
