@@ -19,6 +19,7 @@ measuring where red-team tools disagree on the same target
 
 $ cat certs
 CEH
+OSAI+ (OffSec AI-300)   in progress
 
 $ cat contact
 linkedin.com/in/leschek
