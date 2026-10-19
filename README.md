@@ -1,6 +1,6 @@
 ```console
 $ whoami
-1s0k · AI security test engineer
+Leszek Czuba (1s0k) · AI security test engineer
 
 $ cat about
 I test LLM applications, agents and MCP integrations for prompt injection,
@@ -19,4 +19,9 @@ measuring where red-team tools disagree on the same target
 
 $ cat certs
 CEH
+
+$ cat contact
+linkedin.com/in/leschek
 ```
+
+[LinkedIn](https://www.linkedin.com/in/leschek)
