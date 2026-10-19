@@ -1,8 +1,7 @@
-AI security tester. I break LLM apps, agents and MCP integrations, then measure how reliably the attack works.
+AI security test engineer.
 
-8 years of test automation in regulated systems (medtech, robotics, telecom / IoT) before moving to offensive work.
+I test LLM applications, agents and MCP integrations for prompt injection, tool abuse and RAG poisoning. Results are reported as attack success rate over repeated trials and mapped to OWASP Top 10 for LLM and MITRE ATLAS.
 
-```
-focus   prompt injection · tool abuse · RAG poisoning · MCP
-certs   CEH
-```
+Background: 8 years of test automation in regulated systems (medtech, robotics, telecom / IoT).
+
+Certifications: CEH
