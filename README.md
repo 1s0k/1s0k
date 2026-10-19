@@ -4,14 +4,14 @@ Leszek Czuba (1s0k) · AI security test engineer
 
 $ cat about
 I test LLM applications, agents and MCP integrations for prompt injection,
-tool abuse and RAG poisoning. Results are attack success rates over repeated
+excessive agency and RAG poisoning. Results are attack success rates over repeated
 trials, mapped to OWASP Top 10 for LLM and MITRE ATLAS.
 Background: 8 years of test automation in regulated systems
 (medtech, robotics, telecom / IoT).
 
 $ ls projects/
-ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP
-ai-sec-tests   red-team harness: promptfoo, garak, PyRIT
+ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP   (private, soon)
+ai-sec-tests   red-team harness: promptfoo, garak, PyRIT          (private, soon)
 
 $ cat now
 building the lab's first full attack chain: poisoned RAG doc → tool call
