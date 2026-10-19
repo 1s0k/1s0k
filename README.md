@@ -18,7 +18,7 @@ building the lab's first full attack chain: poisoned RAG doc → tool call
 measuring where red-team tools disagree on the same target
 
 $ cat certs
-CEH
+CEH v13 (EC-Council)
 OSAI+ (OffSec AI-300)   in progress
 
 $ cat contact
