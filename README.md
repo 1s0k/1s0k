@@ -1,11 +1,12 @@
 ```console
 $ whoami
-Leszek Czuba (1s0k) · AI security test engineer
+Leszek Czuba (1s0k) · AI Security Test Engineer
 
 $ cat about
-I test LLM applications, agents and MCP integrations for prompt injection,
-excessive agency and RAG poisoning. Results are attack success rates over repeated
-trials, mapped to OWASP Top 10 for LLM and MITRE ATLAS.
+I test LLM applications, agents and MCP integrations for prompt
+injection, excessive agency and RAG poisoning. Results are attack
+success rates over repeated trials, mapped to OWASP Top 10 for LLM
+and MITRE ATLAS.
 Background: 8 years of test automation in regulated systems
 (medtech, robotics, telecom / IoT).
 
