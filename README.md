@@ -1,6 +1,6 @@
 ```console
 $ whoami
-Leszek Czuba (1s0k) · AI Security Test Engineer
+Leszek Czuba (1s0k) · Software Test Engineer · AI Security Testing
 
 $ cat about
 I test LLM applications, agents and MCP integrations for prompt
