@@ -15,8 +15,8 @@ $ ls ./tools
 promptfoo  garak  PyRIT  burp  mitmproxy  ollama  python  docker
 ```
 
-**lab** — `ai-sec-lab` · deliberately vulnerable LLM app (RAG, agent, MCP) · _in progress_
-**tests** — `ai-sec-tests` · automated AI red teaming against the lab, runs in CI · _in progress_
+**lab** — `ai-sec-lab` · deliberately vulnerable LLM app (RAG, agent, MCP) · _in progress_  
+**tests** — `ai-sec-tests` · automated AI red teaming against the lab, runs in CI · _in progress_  
 **write-ups** — _soon_
 
 <sub>authorised testing only</sub>
