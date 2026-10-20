@@ -3,13 +3,12 @@ $ whoami
 Leszek Czuba (1s0k) · Software Test Engineer · AI Security Testing
 
 $ cat about
-I test LLM applications, agents and MCP integrations for prompt
-injection, excessive agency and RAG poisoning. Results are attack
-success rates over repeated trials, mapped to OWASP Top 10 for LLM
-and MITRE ATLAS.
-Background: almost 8 years in software testing, 5+ in test automation
-for regulated medical devices (lab robotics, DNA analysis);
-before that, telecom / IoT QA.
+AI security testing: prompt injection and LLM red teaming with
+PyRIT, promptfoo and garak against my own test environment.
+Every attack is measured as a success rate over repeated trials,
+mapped to OWASP Top 10 for LLM and MITRE ATLAS.
+Background: almost 8 years in software testing, the last five
+automating tests for medical devices (Tecan, QIAGEN).
 
 $ ls projects/
 ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP   (private, soon)
