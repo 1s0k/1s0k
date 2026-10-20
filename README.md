@@ -1,30 +1,18 @@
 ```console
 $ whoami
-Leszek Czuba (1s0k) · Software Test Engineer · AI Security Testing
+Leszek Czuba · Software Test Engineer · AI Security Testing
 
-$ cat about
-Software tester with almost 8 years of experience, the last five
-automating tests for medical devices (Tecan, QIAGEN).
-Since August 2026: AI security testing, prompt injection and LLM
-red teaming with PyRIT, promptfoo and garak against my own lab.
-Every attack is measured as a success rate over repeated trials,
-mapped to OWASP Top 10 for LLM and MITRE ATLAS.
+$ cat focus
+LLM red teaming: prompt injection, system prompt leakage, jailbreaks.
+Attacks are measured as success rates over repeated trials.
 
-$ ls projects/
-ai-sec-lab     deliberately vulnerable LLM app: RAG, agent, MCP   (private, soon)
-ai-sec-tests   red-team harness: promptfoo, garak, PyRIT
-
-$ cat now
-building the lab's first full attack chain: poisoned RAG doc → tool call
-measuring where red-team tools disagree on the same target
+$ cat background
+Almost 8 years in software testing: medical devices (Tecan, QIAGEN),
+telecom and IoT (Gigaset).
 
 $ cat certs
-OSAI+ (OffSec AI-300)   preparation
-CEH v13 (EC-Council)
-ISTQB CTFL
-
-$ cat contact
-linkedin.com/in/leschek
+CEH v13 · ISTQB CTFL
+in progress: CWES (HTB Web Exploitation) · OSAI+ (OffSec AI-300)
 ```
 
-[ai-sec-tests](https://github.com/1s0k/ai-sec-tests) · [LinkedIn](https://www.linkedin.com/in/leschek)
+[LinkedIn](https://www.linkedin.com/in/leschek)
